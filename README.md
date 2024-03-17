@@ -1,5 +1,9 @@
 # Hey Welcome to my GitHub Profile 👨‍💻❤️
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+
 ## Connect with me 📫:
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsharshpaliwal.svg?style=social)](https://twitter.com/itsharshpaliwal)
 <a href="https://www.linkedin.com/in/harshpaliwal151/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
@@ -7,7 +11,7 @@
 <a href="https://www.instagram.com/its.harsh_paliwal/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://www.facebook.com/Harsh Paliwal.3110"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
 
-I am Vedansh Paliwal 😃 an undergraduate pursuing bachelor's in Computer Science. I love to interact with people and engage with communities. I am a Full Stack Web Developer,ReactJs Developer and Cloud Enthusiast!
+I am Harsh Paliwal 😃 an undergraduate pursuing bachelor's in Computer Science. I love to interact with people and engage with communities. I am a Full Stack Web Developer,ReactJs Developer and Cloud Enthusiast!
 
 ## Work Experience 👔
 * Frontend Web Developer Intern at Aimfortech Solution
